@@ -4,6 +4,8 @@ This is a TidyTuesday (and also a PydyTuesday) project! Check out the data sourc
 
 Check out the notebook file pydytuesday_20250325.ipynb for code exploring the data and visualizing it with matplotlib and VADER.
 
+![bubble chart](bubble_chart.png)
+
 ### How to Participate
 
 - [Explore the data](https://r4ds.hadley.nz/), watching out for interesting relationships. We would like to emphasize that you should not draw conclusions about **causation** in the data. There are various moderating variables that affect all data, many of which might not have been captured in these datasets. As such, our suggestion is to use the data provided to practice your data tidying and plotting techniques, and to consider for yourself what nuances might underlie these relationships.
